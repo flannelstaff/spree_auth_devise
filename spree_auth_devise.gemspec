@@ -20,6 +20,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'spree_core', spree_version
   s.add_dependency 'spree_frontend', spree_version
   s.add_dependency 'spree_backend', spree_version
-  s.add_dependency 'devise', '~> 2.2.3'
+  s.add_dependency 'devise', '~> 2.2.4'
   s.add_dependency 'cancan', '~> 1.6.7'
 end
