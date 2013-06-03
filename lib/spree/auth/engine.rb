@@ -1,5 +1,3 @@
-require 'devise-encryptable'
-
 module Spree
   module Auth
     class Engine < Rails::Engine
